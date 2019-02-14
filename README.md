@@ -1,5 +1,7 @@
 # REVIVE-USB
 
+***製品ページは[こちら](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)***
+
 ## オリジナルUSBデバイスを簡単に作成できるREVIVE USB
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/d3bd346bc2119d8576ce93741d53400c.png)  
 
