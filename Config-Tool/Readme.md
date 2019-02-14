@@ -11,7 +11,7 @@ Configuration Toolを用いて行った設定はREVIVE USBのチップの中に�
 
 ### 2.1 REVIVE USBの立ち上げ
 
-REVIVE USB, Configuration Toolを立ち上げ、REVIVE USBを接続すると、自動的にデバイスが認識され、以下の様な画面となります。  1
+REVIVE USB, Configuration Toolを立ち上げ、REVIVE USBを接続すると、自動的にデバイスが認識され、以下の様な画面となります。  
 ![](https://lh6.googleusercontent.com/li3BnWSCqTS_B3_ZmOh8z4FZYgbxWEKOpqTLYWl6ZiJWaeauTL0bK-nqGzD93qpdKG0f6m63DbKpYXGnxLui7rz6RzC687HpFbVVSIRakunJj5vyqHEge4w8)  
 デバイスが認識されていないと、以下の画面となります。  
 ![](https://lh6.googleusercontent.com/11NaX34EBSxdQvyBctX4zwhNCsgsrADqhvUkWAUyOawUZ6Y2DWAzq89EYOvZGYn4S4h4sfC62w08P97P5bI9WD1Vfh_4xtpD_DIbkVX4LVkvWOtEttpnUE-T)  
