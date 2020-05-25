@@ -1,38 +1,44 @@
-# REVIVE-USB
+# AD00007-REVIVE-USB
 
-### *製品ページは[こちら](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)*
-
-## オリジナルUSBデバイスを簡単に作成できるREVIVE USB
+## オリジナルUSBデバイスを簡単に作成できるREVIVE USB  
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/d3bd346bc2119d8576ce93741d53400c.png)  
 
-ユーザーに敷居の高いUSBインターフェースの入力処理や設定を全てこのモジュールが行ないますので、  
-ピンにスイッチを接続するだけで簡単にオリジナルUSBデバイスを製作する事が出来ます。  
-
 USBでパソコンと接続し、専用ソフトウェアを用いて12本のピンに  
-任意の操作（マウスクリック／キー入力等）を設定する事が出来ます。  
-一度設定した操作は本体モジュール内のメモリに保存され、  
-他のパソコンに接続した際にも設定を変更することなく使用可能となります。  
+任意の操作（マウスクリック／キー入力等）を設定する事が出来ます。 
 
-## 簡単設定ツールでマウス／キーボード／ジョイパッドの各機能を割付可能
+## [製品の詳細はこちら](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)
 
-各操作の設定は直感的に利用可能なインタフェースを持つ専用Windowsソフトウェアを用いて行ない、  
-どなたにでも簡単に設定出来ます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/ReviveUSB-ConfigrationTool.png)  
-各ピンには以下の操作を設定する事が出来ます。  
-またマウス機能／キーボード機能／ジョイパッド機能を混在させる事も可能です。  
-<マウス機能>  
+## [キット版組み立て説明書はこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/blob/master/Manual/Revive_manual.pdf)  
 
-   - 左クリック
-   - 右クリック
-   - ホイールクリック
-   - 上下左右へのマウス移動
-   - 上下へのホイールスクロール
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/App/)  
 
-<キーボード機能>
+## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/Firmware/)
 
-   - 任意のキーへの割当て
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/App_source/)  
 
-<ジョイパッド機能>
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/Firmware_source/)
 
-   - X軸／Y軸（上下左右）
-   - ボタン1～ボタン12
+## 作例
+
+[BTO公式]()  
+[Twitter作例1]()  
+[Twitter作例2]()  
+[ブログ作例1]()  
+[ブログ作例1]()  
+
+## 掲載情報
+
+[ラズパイマガジンXX年Y月号]()  
+[Pc Watch]()
+
+
+## 製品仕様
+
+
+    製品名：REVIVE USB
+    型番：キット版AD00007　/　組立済版　AD00007P
+    サイズ：W22×D49mm
+    入力点数：12(デジタル)
+    コネクタ：シリーズ・ミニB
+    対応OS：Windows 10 / 8.1/ 8 / 7 / Vista / XP
+    JANコード：キット版　4560196900189 / 組立済版　4560196900394
