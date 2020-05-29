@@ -12,7 +12,7 @@ USBでパソコンと接続し、専用ソフトウェアを用いて12本のピ
 
 ## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/FirmWare/)
 
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App_source/)  
 
