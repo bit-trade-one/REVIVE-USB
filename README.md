@@ -18,6 +18,10 @@ USBでパソコンと接続し、専用ソフトウェアを用いて12本のピ
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/Firmware_source/)
 
+### [基板図](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Dimensions/AD00007_REVIVE_USB_dimensions.pdf)
+
+### [回路図](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Schematics/revive_sch.png)
+
 ### [部品表](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Partslist/AD00007-PartsList.md)
 
 ## 作例
