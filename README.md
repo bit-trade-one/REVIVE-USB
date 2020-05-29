@@ -8,15 +8,15 @@ USBでパソコンと接続し、専用ソフトウェアを用いて12本のピ
 
 ## [製品の詳細はこちら](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)
 
-## [キット版組み立て説明書はこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/blob/master/Manual/Revive_manual.pdf)  
+## [キット版組み立て説明書はこちら](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Manual/Revive_manual.pdf)  
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/App/)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/Firmware/)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/Firmware/)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/App_source/)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App_source/)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00007-REVIVE-USB/raw/master/Firmware_source/)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/Firmware_source/)
 
 ### [基板図](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Dimensions/AD00007_REVIVE_USB_dimensions.pdf)
 
