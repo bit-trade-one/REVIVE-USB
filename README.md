@@ -20,10 +20,10 @@ USBでパソコンと接続し、専用ソフトウェアを用いて12本のピ
 
 ## 作例
 
-[\[Bit-trade-one公式\]REVIVE USBを使ってジョイスティックを作成しました！](http://bit-trade-one-blog.blogspot.com/2012/01/revive-usb.html)  
-[\[Bit-trade-one公式\]REVIVE USBを用いたテンキーのショートカットキーボード化](https://docs.google.com/document/pub?id=1tj2YW0OkGKYTroH0v_psLJJ5uBwOZKFZ7izL9BA2TJg)  
-[「味わい尽くせ！ 」様/REVIVE USBをアナログXY軸に対応してみた](https://gurochoro.blogspot.com/2017/01/revive-usb-infinitas.html)  
-[「SEGA至上主義」様/JTKのnProエラーでお困りの方に多ボタンコントローラー自作のススメ](http://blog.livedoor.jp/sega_ss/archives/12361631.html)  
+[\[Bit-trade-one公式\] / 「REVIVE USBを使ってジョイスティックを作成しました！」](http://bit-trade-one-blog.blogspot.com/2012/01/revive-usb.html)  
+[\[Bit-trade-one公式\] / 「REVIVE USBを用いたテンキーのショートカットキーボード化」](https://docs.google.com/document/pub?id=1tj2YW0OkGKYTroH0v_psLJJ5uBwOZKFZ7izL9BA2TJg)  
+[「味わい尽くせ！ 」様 / 「REVIVE USBをアナログXY軸に対応してみた」](https://gurochoro.blogspot.com/2017/01/revive-usb-infinitas.html)  
+[「SEGA至上主義」様 / 「JTKのnProエラーでお困りの方に多ボタンコントローラー自作のススメ」](http://blog.livedoor.jp/sega_ss/archives/12361631.html)  
 
 ## 掲載情報
 
