@@ -5,7 +5,7 @@
  - HIDBootLoader.exe(ファームウェア書込ツール)
 
 # ushui殿作成FW
- - REVIVE_USB_v100_PID6E(エンコーダ対応版)　　
+ - REVIVE_USB_v100_PID6E(エンコーダ対応版)  
 追加機能  
 ---入力のチャタリング設定機能の追加  
 ---サンプリング周期：入力周期の設定  
