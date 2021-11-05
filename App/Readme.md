@@ -3,7 +3,7 @@
  - Revive_USB_CT_V130.exe(通常版)
  - REVIVE_USB_MATRIX_CT.exe(マトリックス版)
 
-## ushui殿作成FW・設定ツールのご紹介  
+## ushui殿作成FW・設定ツールのご紹介(エンコーダ対応版)
 こちらよりDLください。  
 https://github.com/ushui/REVIVE_USB_RENC_Debounce  
  - REVIVE_USB_RENC_Debounce_latest.zip(エンコーダ対応版)  
