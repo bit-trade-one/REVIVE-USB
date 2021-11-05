@@ -4,7 +4,9 @@
  - REVIVE_MATRIX_ver005.zip(マトリックス版)
  - HIDBootLoader.exe(ファームウェア書込ツール)
 
-# ushui殿作成FW
+# ushui殿作成FWのご紹介  
+こちらよりDLください。  
+https://github.com/ushui/REVIVE_USB_RENC_Debounce  
  - REVIVE_USB_v100_PID6E(エンコーダ対応版)  
 追加機能  
 ---入力のチャタリング設定機能の追加  
@@ -13,7 +15,7 @@
 ---ロータリーエンコーダー設定機能の追加  
 ---ペア設定：どのピンでロータリーエンコーダーを接続して使用するかの設定  
 ---一致検出回数：何回一致したら入力とするかの設定  
-https://github.com/ushui/REVIVE_USB_RENC_Debounce  
+
 
 # REVIVE USB MICROファームウェア
 
