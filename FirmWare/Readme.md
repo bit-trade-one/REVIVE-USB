@@ -4,7 +4,7 @@
  - REVIVE_MATRIX_ver005.zip(マトリックス版)
  - HIDBootLoader.exe(ファームウェア書込ツール)
 
-## ushui殿作成FW・設定ツールのご紹介  
+## ushui殿作成FW・設定ツールのご紹介(エンコーダ対応版)
 こちらよりDLください。  
 https://github.com/ushui/REVIVE_USB_RENC_Debounce  
  - REVIVE_USB_RENC_Debounce_latest.zip(エンコーダ対応版)  
