@@ -2,18 +2,6 @@
 
  - Revive_USB_CT_V130.exe(通常版)
  - REVIVE_USB_MATRIX_CT.exe(マトリックス版)
-
-## ushui殿作成FW・設定ツールのご紹介(エンコーダ対応版)
-こちらよりDLください。  
-https://github.com/ushui/REVIVE_USB_RENC_Debounce  
- - REVIVE_USB_RENC_Debounce_latest.zip(エンコーダ対応版)  
-追加機能  
----入力のチャタリング設定機能の追加  
----サンプリング周期：入力周期の設定  
----一致検出回数：何回一致したら入力とするかの設定  
----ロータリーエンコーダー設定機能の追加  
----ペア設定：どのピンでロータリーエンコーダーを接続して使用するかの設定  
----一致検出回数：何回一致したら入力とするかの設定  
  
 # REVIVE USB Configuration Toolの使い方
 
