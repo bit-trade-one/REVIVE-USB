@@ -6,17 +6,19 @@
 USBでパソコンと接続し、専用ソフトウェアを用いて12本のピンに  
 任意の操作（マウスクリック／キー入力等）を設定する事が出来ます。 
 
-## [製品の詳細はこちら](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)
+## [製品の詳細はこちら(BTO_HP)](http://bit-trade-one.co.jp/product/assemblydisk/revive-usb/)
 
-## [キット版組み立て説明書はこちら](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Manual/Revive_manual.pdf)  
+## [キット版組み立て説明書](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Manual/Revive_manual.pdf)  
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App/)  
+## [アプリケーションソフト](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/FirmWare/)
+## [ファームウェア](https://github.com/bit-trade-one/REVIVE-USB/raw/master/FirmWare/)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App_source/)  
+## [Q&A](https://github.com/bit-trade-one/REVIVE-USB/blob/master/FAQ.md)
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/REVIVE-USB/raw/master/Firmware_source/)
+### [アプリケーションソース](https://github.com/bit-trade-one/REVIVE-USB/raw/master/App_source/)  
+
+### [ファームウェアソース](https://github.com/bit-trade-one/REVIVE-USB/raw/master/Firmware_source/)
 
 ### [基板図](https://github.com/bit-trade-one/REVIVE-USB/blob/master/Dimensions/AD00007_REVIVE_USB_dimensions.pdf)
 
