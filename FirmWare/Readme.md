@@ -4,7 +4,7 @@
  - REVIVE_MATRIX_ver005.zip(マトリックス版)
  - HIDBootLoader.exe(ファームウェア書込ツール)
 
-# REVIVE USB MICROファームウェア
+# REVIVE USB ファームウェア
 
 REVIVE USB MICROのファームウェアとソースコードを公開しています。  
 
